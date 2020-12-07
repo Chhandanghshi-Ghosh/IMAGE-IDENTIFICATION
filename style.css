@@ -1,0 +1,9 @@
+body{
+    background-color: burlywood;
+}
+
+#camera{
+    border: rgb(30, 189, 210) 2px solid;
+    width: 350px;
+    height: 350px;
+}
